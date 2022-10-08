@@ -51,7 +51,7 @@ public class CrossbodyBag extends Bag {
 
     @Override
     public String toString(){
-        return getColor() + " Crossbody Bag with " + getNumberOfStraps () + " Straps (" + getNumberOfContents() +
+        return getColor() + " Crossbody Bag with " + getNumberOfStraps () + " straps (" + getNumberOfContents() +
                 " / " + getCapacity() + ")";
     }
 
